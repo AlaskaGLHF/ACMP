@@ -1,0 +1,14 @@
+C:\Users\ivanl\RiderProjects\ACMP\ACMP\bin\Debug\net8.0\ACMP.exe
+C:\Users\ivanl\RiderProjects\ACMP\ACMP\bin\Debug\net8.0\ACMP.deps.json
+C:\Users\ivanl\RiderProjects\ACMP\ACMP\bin\Debug\net8.0\ACMP.runtimeconfig.json
+C:\Users\ivanl\RiderProjects\ACMP\ACMP\bin\Debug\net8.0\ACMP.dll
+C:\Users\ivanl\RiderProjects\ACMP\ACMP\bin\Debug\net8.0\ACMP.pdb
+C:\Users\ivanl\RiderProjects\ACMP\ACMP\obj\Debug\net8.0\ACMP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivanl\RiderProjects\ACMP\ACMP\obj\Debug\net8.0\ACMP.AssemblyInfoInputs.cache
+C:\Users\ivanl\RiderProjects\ACMP\ACMP\obj\Debug\net8.0\ACMP.AssemblyInfo.cs
+C:\Users\ivanl\RiderProjects\ACMP\ACMP\obj\Debug\net8.0\ACMP.csproj.CoreCompileInputs.cache
+C:\Users\ivanl\RiderProjects\ACMP\ACMP\obj\Debug\net8.0\ACMP.dll
+C:\Users\ivanl\RiderProjects\ACMP\ACMP\obj\Debug\net8.0\refint\ACMP.dll
+C:\Users\ivanl\RiderProjects\ACMP\ACMP\obj\Debug\net8.0\ACMP.pdb
+C:\Users\ivanl\RiderProjects\ACMP\ACMP\obj\Debug\net8.0\ACMP.genruntimeconfig.cache
+C:\Users\ivanl\RiderProjects\ACMP\ACMP\obj\Debug\net8.0\ref\ACMP.dll
